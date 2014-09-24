@@ -1,5 +1,8 @@
 {
-    "name": "monitor",
-    "author": "Uriel Gonzalez <uriel.gonzalez.py@gmail.com>",
-    "engine": "node >= 0.10.32"
+  "name": "monitor",
+  "author": "Uriel Gonzalez <uriel.gonzalez.py@gmail.com>",
+  "engine": "node >= 0.10.32",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
 }
